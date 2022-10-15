@@ -8,9 +8,8 @@ public class ejemplo1 {
         farengeith=leerdato.nextDouble();
 
         centigrados=(farengeith-32)/1.8;
-        System.out.println("Para coninar la receta a "+farengeith+"°F, Necesitas la temperatura en "+centigrados+"°C");
+        System.out.println("Para coninar la receta a"+farengeith+"°F, Necesitas la temperatura en"+centigrados+"°C");
         leerdato.close();
-
         
     }
 }

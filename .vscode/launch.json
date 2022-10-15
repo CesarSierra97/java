@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch calculadora",
+      "request": "launch",
+      "mainClass": "calculadora",
+      "projectName": "proyecto1_4dc672ee"
+    },
+    {
+      "type": "java",
       "name": "Launch reto2",
       "request": "launch",
       "mainClass": "reto2",
